@@ -81,6 +81,9 @@ Truth table generator used to check Horn Clauses were read correctly and produce
 https://en.wikipedia.org/wiki/List_of_logic_symbols
 used to aid development of truth table definitions (listed above)
 
+https://www.youtube.com/watch?v=EZJs6w2YFRM
+Helpful video used to determine correct psudocode for FC algorithem.
+
 ## Notes
 before the selected algorithm is run, a series of truth tables for each statement will be shown.
 press any key to continue to Agent execution.
